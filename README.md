@@ -4,7 +4,7 @@ Built a model to accurately classify a piece of news as real or fake. The datase
 
 A practice project following the Detecting Fake News project by DataFlair.
 
-Applied TfidfVectorizer and PassiveAggressiveClassifier
+Applied *TfidfVectorizer* and *PassiveAggressiveClassifier*.
 
 Calculated accuracy score and confusion matrix
 - Accuracy score: 93%
